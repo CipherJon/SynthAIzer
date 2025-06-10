@@ -1,0 +1,9 @@
+torch>=2.6.0
+numpy>=1.22.0
+pretty_midi>=0.2.10
+python-rtmidi>=1.5.0
+mido>=1.2.10
+requests>=2.32.3
+python-dotenv>=1.0.0
+scipy>=1.7.0
+tqdm>=4.65.0 
